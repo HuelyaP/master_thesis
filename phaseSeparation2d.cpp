@@ -43,6 +43,7 @@ using namespace std;
 typedef double T;
 #define DESCRIPTOR ShanChenDynOmegaForcedD2Q9Descriptor
 
+//just a test
 
 // Parameters for the simulation setup
 const int maxIter  = 5000;
